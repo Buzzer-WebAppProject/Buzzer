@@ -10,4 +10,4 @@
 <p>Buzzer is a web application made for all the beekepers that want to digitalize and upgrade their beehive. By using our application the beekeeper can keep track of the feeding times of the bees and track the temperature and activity of their beehives remotely. Our application will have news and helpful informations for senior beekepers, as well as tips and tricks, helpful informations and how-to instructions for the newcomers to the beautiful apicultural world</p>
 
 <h2>Link to our prototype</h2>
-<p>Not available yet</p>
+<p>https://www.figma.com/file/rZNs7OcjOuaW4SvQyo8FQ1/Buzzer?node-id=0%3A1</p>
