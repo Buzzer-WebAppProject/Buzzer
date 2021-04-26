@@ -1,3 +1,3 @@
-<h1>Buzzer backend repository</h1>
+# Buzzer frontend
 
-<p>In this repository you can find all the backend files for the Buzzer web application.</p>
+<p>In this folder you can find all the fronted files for the Buzzer web application.</p>
