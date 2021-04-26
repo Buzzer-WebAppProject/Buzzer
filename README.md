@@ -1,8 +1,13 @@
 # Buzzer
-<h2>
-Application description
-</h2>
+<p>In this repository, You can find all the available documents that were needed to create Buzzer, a WebApp made by a team of two(2) students (David Kostić and David Maglica) as our project for our Web Applications class.</p>
 
-<p>
-Naša aplikacija namjenjena je svim pčelarima koji žele digitalizirati i unaprijediti svoji vlastiti pčelinjak. Pomoću aplikacije, pčelar može voditi evidenciju kada ih je nahranio, kada im je dao hranjivu tekućinu te pratiti aktivnost svoga pčelinjaka na daljinu (temperatura, zaštita od rojenja pčela). Aplikacija također će sadržavati novosti za već postojeće pčelare (vrijeme hranjenja, period kada ih zaštititi od određenih bolesti,itd...) pa tako i upute za ljude koji žele ući u predivan svijet pčelarstva.
-</p>
+
+<p><strong>Fakultet:</strong> Fakulet Informatike u Puli (<strong>https://fipu.unipu.hr/</strong>)</p>
+<p><strong>Kolegij:</strong> Programsko Inženjerstvo (<strong>https://ntankovic.unipu.hr/pi</strong>)</p>
+<p><strong>Mentori:</strong> doc. dr. sc. Nikola Tanković (<strong>https://ntankovic.unipu.hr</strong>) i Nikki Bernobić, univ. bacc. inf.</p>
+
+<h2>What is Buzzer?</h2>
+<p>Buzzer is a web application made for all the beekepers that want to digitalize and upgrade their beehive. By using our application the beekeeper can keep track of the feeding times of the bees and track the temperature and activity of their beehives remotely. Our application will have news and helpful informations for senior beekepers, as well as tips and tricks, helpful informations and how-to instructions for the newcomers to the beautiful apicultural world</p>
+
+<h2>Link to our prototype</h2>
+<p>Not available yet</p>
